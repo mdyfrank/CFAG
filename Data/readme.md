@@ -1,4 +1,4 @@
 ## Data Format
-User-item interactions are in **GroupItemTrain.txt**
+**User**-item interactions are in **group**ItemTrain.txt
 
-Group-item interactions are in **UserItemTrain.txt**
+**Group**-item interactions are in **user**ItemTrain.txt
